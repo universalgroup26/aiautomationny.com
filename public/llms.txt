@@ -1,0 +1,59 @@
+# AI AUTOMATION NY
+
+> Architects of Autonomous Enterprise. Production-grade AI Voice Receptionists, 24/7 AI Chatbots, CRM Sales Pipelines, and Speed-to-Lead Follow-Up systems for New York businesses and government contractors.
+
+Powered by **Universal Tech INC** — Official U.S. Small Business Administration (SBA) SDVOSB & New York State Certified Service-Disabled Veteran-Owned Business (SDVOB).
+
+- Headquarters: 3707 74th Street, Suite 8 (3rd FL), Jackson Heights, NY 11372
+- Direct Phone: +1 (718) 500-2221
+- Official Website: https://aiautomationny.com
+- Primary Contact Email: Universaltech2018@gmail.com / contact@aiautomationny.com
+
+---
+
+## Core Capabilities & Services
+
+- [AI Voice Receptionist (24/7)](https://aiautomationny.com/services/ai-voice-receptionist): Sub-second latency, natural human-like voice agents that answer incoming phone calls, qualify leads, schedule calendar appointments, and route urgent emergencies.
+- [AI Chat & Booking Systems](https://aiautomationny.com/services/ai-chat-booking): Multilingual conversational widgets for websites and SMS that capture customer intent and convert traffic into confirmed appointments.
+- [CRM & Sales Pipeline Automation](https://aiautomationny.com/services/crm-sales-automation): Seamless integration with GoHighLevel, HubSpot, Salesforce, and custom databases with stage tracking and automated rep tasks.
+- [Speed-to-Lead Instant Follow-Up](https://aiautomationny.com/services/speed-to-lead): Sub-60-second outreach via SMS and call bridge whenever a prospect submits a lead form or request.
+- [Database Reactivation Campaigns](https://aiautomationny.com/services/database-reactivation): AI-powered outreach sequences that revive dormant lead databases into fresh booking revenue.
+- [Multi-Agent Custom AI Architecture](https://aiautomationny.com/services/custom-ai-workflows): Tailored multi-model LLM orchestration (Gemini 2.5, OpenAI GPT-4o, Claude 3.5 Sonnet) connected to internal enterprise data sources.
+
+---
+
+## Target Industries in New York
+
+- [Home Services & HVAC](https://aiautomationny.com/industries/hvac-contractors): Dispatch automation, emergency call triage, estimate booking.
+- [Healthcare & Medical Practices](https://aiautomationny.com/industries/medical-practices): HIPAA-compliant appointment booking, patient intake triage, recall reminders.
+- [Legal Services & Law Firms](https://aiautomationny.com/industries/law-firms): Case qualification, retainer intake, 24/7 client communication.
+- [Real Estate & Property Management](https://aiautomationny.com/industries/real-estate): Buyer qualification, viewing scheduling, tenant maintenance ticket routing.
+- [Government & Public Sector](https://aiautomationny.com/industries/government-contractors): SDVOSB certified procurement, public portal triage, secure data management.
+- [Automotive & Dealerships](https://aiautomationny.com/industries/automotive): Service bay booking, test drive scheduling, inventory inquiry agents.
+
+---
+
+## Pricing & Investment Tiers
+
+- **AI Business Starter ($2,500 setup + $397/mo)**: 4–5 page high-converting AI website, GoHighLevel CRM setup, 24/7 AI chat widget, calendar booking, up to 7 automated workflows.
+- **AI Business Growth ($5,000 setup + $697/mo)**: Advanced 4–5 page AI website, multi-channel AI chatbot, missed-call text back, database reactivation, up to 15 workflows, speed-to-lead engine.
+- **AI Business Pro ($8,500 setup + $1,197/mo)**: Full 24/7 AI Voice Receptionist phone system, omnichannel AI workforce, up to 30 workflows, smart routing, review generation engine.
+- **AI Business Elite ($15,000+ custom)**: Custom multi-agent AI architecture, multi-location enterprise CRM, dedicated voice tuning, bespoke API integrations, SLA priority support.
+
+---
+
+## Certifications & Trust Badges
+
+- **SBA SDVOSB**: Service-Disabled Veteran-Owned Small Business Federal Certification.
+- **NYS SDVOB**: New York State Certified Service-Disabled Veteran-Owned Business.
+- **Verified AI Partner**: Certified Enterprise LLM & Neural Model Integration.
+- **NYC Local Specialist**: On-site Jackson Heights, Queens HQ with Tri-State on-site support.
+- **Secure Data Handling**: SOC-2 Type II readiness, 256-bit encryption, HIPAA compliant routing.
+
+---
+
+## Links & Knowledge Index
+
+- [Comprehensive AI System Specs](https://aiautomationny.com/llms-full.txt): Detailed documentation on architectures, APIs, CRM webhooks, and benchmark metrics.
+- [Interactive Audit Scheduling](https://aiautomationny.com/book-demo): Book a live 30-minute AI Automation Audit and workflow mapping session.
+- [Client Case Studies & Results](https://aiautomationny.com/results): Verifiable ROI metrics, missed-call recapture stats, and client feedback.

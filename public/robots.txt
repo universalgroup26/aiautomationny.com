@@ -1,0 +1,48 @@
+# ==============================================================================
+# AI AUTOMATION NY (aiautomationny.com) - Official Robots.txt
+# Standards Compliant with Google Search Central, Bing, and AI Agent Discovery
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+# Explicit Allowances for AI & LLM Search Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Cohere-ai
+Allow: /
+
+# Canonical Sitemaps & LLM Context Discovery
+Sitemap: https://aiautomationny.com/sitemap.xml
+LLMs-Txt: https://aiautomationny.com/llms.txt
